@@ -1,0 +1,31 @@
+html, body, #map {
+    font-family: "微软雅黑", sans-serif;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+
+}
+
+#map {
+  background: url(../resources/map-background.jpg) repeat;
+}
+
+.hide{
+    display: none;
+}
+
+@font-face{
+    font-family:'heydings';
+    src:url('assets/font/heydings.eot');
+    src:url('assets/font/heydings.eot') format('embedded-opentype'), url('assets/font/heydings.woff') format('woff'), url('assets/font/heydings.ttf') format('truetype'), url('assets/font/heydings.svg') format('svg');
+    font-weight:normal;
+    font-style:normal;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    list-style: none;
+}

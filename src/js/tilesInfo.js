@@ -1,0 +1,10 @@
+var outputPath='../assets/tiles/';
+var urlType='0';
+var minZoom=2;
+var maxZoom=10;
+var centX=102.9562385;
+var centY=30.1851225;
+var format='.png';
+var epsgCode='4326';
+var tileSize=256;
+var pointsStr='';
