@@ -4,7 +4,7 @@
     <div class="header">
       <div class="heder_title">
         <span class="img"><img src="../assets/zsy.png" alt=""></span>
-        <span class="title_content">川渝管网运行负荷动态监测系统</span>
+        <span class="title_content">****</span>
         <span class="carche"></span>
       </div>
       <div class="header_menu">
