@@ -2,16 +2,11 @@
     <div class="frame">
         <el-form class="query-from"  :model="details">
             <el-row >
-                <el-col :span="12"> <el-form-item label="管段名称:">
-                    {{details.dataName}}
-                </el-form-item></el-col>
-            </el-row>
-            <el-row >
-                <el-col :span="12"> <el-form-item label="输量负荷率:">
+                <el-col :span="12"> <el-form-item label="**********************:">
                     80%
                 </el-form-item></el-col>
                  <el-col :span="12">
-                    <el-form-item label="管存量负荷率:">
+                    <el-form-item label="******:">
                        70%
                     </el-form-item>
                 </el-col>
