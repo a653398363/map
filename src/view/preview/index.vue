@@ -28,8 +28,8 @@
             </template>
             <el-menu-item-group index="1-4">
              <el-menu-item-group>
-                <el-menu-item index="2-1">西北作业区</el-menu-item>
-                <el-menu-item index="2-2">江夏作业区</el-menu-item>
+                <el-menu-item index="2-1">******</el-menu-item>
+                <el-menu-item index="2-2">****区</el-menu-item>
               </el-menu-item-group>
             </el-menu-item-group>
           </el-submenu>
@@ -52,19 +52,19 @@
              
              <span class="details">压力超标压力超标压力超标压力超标</span> </li>
             <li>
-             <span ><i class="el-icon-info typecolor"></i> 檀木50万脱水装置（脱水站）</span>
+             <span ><i class="el-icon-info typecolor"></i>***</span>
              <span class="details">压力超标</span> </li>
             <li>
-             <span ><i class="el-icon-warning typecolor"></i> 崇礼配气站（配气站）</span>
+             <span ><i class="el-icon-warning typecolor"></i> *****</span>
              <span class="details">压力超标压力超标压力超标压力超标</span> </li>
             <li>
-             <span > <i class="el-icon-info typecolor"></i>三合配气站（配气站）</span>
+             <span > <i class="el-icon-info typecolor"></i>****</span>
              <span class="details">气压不正常</span> </li>
             <li>
-             <span ><i class="el-icon-circle-close typecolor"></i> 芦溪站（集气站）</span>
+             <span ><i class="el-icon-circle-close typecolor"></i> ****</span>
              <span class="details">压力超标压力超标压力超标压力超标</span> </li>
             <li>
-             <span ><i class="el-icon-question typecolor"></i> 卧118-1井（集气站）</span>
+             <span ><i class="el-icon-question typecolor"></i> ***</span>
              <span class="details">压力超标压力超标压力超标压力超标</span> </li>
           </ul>
         </div>
